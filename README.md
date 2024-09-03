@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning  c and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahulchauhan14.work@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact: :/
 
 <!---
 Rahulchauhan148/Rahulchauhan148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
