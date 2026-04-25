@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahulchauhan148
+- 👋 Hi, I’m Rahul Chauhan
 - 👀 I’m interested in Problem solving 
 - 🌱 I’m currently learning  c and C++
 - 💞️ I’m looking to collaborate on ...
